@@ -4,8 +4,8 @@ A full-stack blog platform built with Next.js, Express, and MongoDB Atlas. Featu
 
 ## Live Demo
 
-- **Frontend**: [https://blog-platform-frontend.vercel.app](https://blog-platform-frontend.vercel.app)
-- **Backend API**: [https://blog-platform-api.onrender.com/api](https://blog-platform-api.onrender.com/api)
+- **Frontend**: [https://blog-platform-rosy-sigma.vercel.app](https://blog-platform-rosy-sigma.vercel.app)
+- **Backend API**: [https://blog-platform-nuk9.onrender.com/api](https://blog-platform-nuk9.onrender.com/api)
 
 ## Features
 
